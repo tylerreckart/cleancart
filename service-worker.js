@@ -29,9 +29,3 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     return false;
   }
 });
-
-// Optional: Add listener for extension installation/update for potential setup tasks
-chrome.runtime.onInstalled.addListener((details) => {
-  // console.log('cleancart extension installed or updated.', details);
-  // Potential future use: Set default settings in chrome.storage
-});
