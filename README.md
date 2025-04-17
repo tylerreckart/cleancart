@@ -1,4 +1,8 @@
-# ![Clean Cart Icon](/images/icon-48.png) Clean Cart
+<div style="display:flex;justify-content:center;align-items:center;">
+  <img style="margin-right:12px;" src="./images/icon-48.png" width="48px" height="48px" alt="Clean Cart icon">
+  <h1 style="display:block;">Clean Cart</h1>
+</div>
+
 ## Overview
 Clean Cart is a Chrome browser extension designed to automatically detect and hide promotional and ubiquitous "Buy Now, Pay Later" (BNPL) messaging elements injected into websites by services like Affirm, Klarna, and Afterpay.
 
